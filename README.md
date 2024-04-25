@@ -1,4 +1,7 @@
-A Unity C# trading card game (similar to Hearthstone) 
+# A Unity C# trading card game 
+
+### preview
+<img src="./preview.png">
 
 You can run the game directly from unity.
 
